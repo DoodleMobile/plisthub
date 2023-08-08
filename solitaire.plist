@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.smilerlee.solitaire</string>
+				<string>com.smilerlee.klondike</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
