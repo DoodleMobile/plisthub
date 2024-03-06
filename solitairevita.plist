@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.godlike.vitasolitaire</string>
+				<string>com.godlike.vigorsolitaire</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SolitaireVita.ipa</string>
+				<string>SolitaireVigor.ipa</string>
 			</dict>
 		</dict>
 	</array>
